@@ -27,7 +27,7 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages y Herramientas:</h3>
 <p align="left"> 
     </a> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
