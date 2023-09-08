@@ -1,4 +1,4 @@
-<h1 align="center">Bienvenidos!, me llamo Juan</h1>
+<h1 align="center">¡Bienvenidos! Me llamo Juan</h1>
 <h3 align="center">Soy estudiante en UTN San Rafael de Tecnicatura en Programacion🌟.</h3>
 
 <br>
@@ -22,7 +22,7 @@
      alt="_._.adam._" height="30" width="40" /></a> 
 </p>
 
-<h3 align="left">Curriculum Vitae</h3>
+<h3>Más info <a href="https://jbelich.notion.site/jbelich/Juan-Ignacio-Belich-30453883cb364bac822f570e3426a463">aqui</a> o escanear QR</h3>
    <img align="center"src="https://github.com/JuanBelich/JuanBelich/blob/main/qr.png"alt="CV" height="150" width="160" />
 
 <h3 align="left">Languages y Herramientas:</h3>
