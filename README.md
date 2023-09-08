@@ -12,8 +12,6 @@
 
 - ⚡ Me gusta ver pelis, el anime y los juegos
 
-<br>
-
 <h3 align="left">Redes de contacto</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/juan-belich-bb214223a/" target="blank"><img align="center"
@@ -21,11 +19,11 @@
       alt="adam pithewan" height="30" width="40" /></a>
  <a href="https://www.instagram.com/belichjuano/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
- 
+     alt="_._.adam._" height="30" width="40" /></a> 
 </p>
 
-<br>
+<h3 align="left">Curriculum Vitae</h3>
+   <img align="center"src="https://github.com/JuanBelich/JuanBelich/blob/main/qr.png"alt="CV" height="150" width="160" />
 
 <h3 align="left">Languages y Herramientas:</h3>
 <p align="left"> 
@@ -40,7 +38,6 @@
     <a href="https://https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img  src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40"height="40" /> </a> </p>
     <a target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" /></a> 
     
-<br>
 <h3 align="left">Aprendiendo actualmente</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a> 
