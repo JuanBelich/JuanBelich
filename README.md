@@ -8,7 +8,7 @@
 
 - 🌱Estoy aprendiendo varios lenguajes como Java, JavaScript y herramientas como CSS e inglés
 
-- 📫 Mi mail es jbelich89@gmail.com
+- 📫 Contactame a mi <a href="mailto:jbelich89@gmail.com">correo</a>
 
 - ⚡ Me gusta ver pelis, el anime y los juegos
 
