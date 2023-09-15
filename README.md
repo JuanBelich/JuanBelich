@@ -23,7 +23,7 @@
 </p>
 
 <h3>Más info <a href="https://jbelich.notion.site/jbelich/Juan-Ignacio-Belich-30453883cb364bac822f570e3426a463">aqui</a> o escanear QR</h3>
-   <img align="center"src="https://github.com/JuanBelich/JuanBelich/blob/main/nqr.png"alt="CV" height="150" width="160" />
+   <img align="center"src="https://github.com/JuanBelich/JuanBelich/blob/main/qr.png"alt="CV" height="150" width="160" />
 
 <h3 align="left">Languages y Herramientas:</h3>
 <p align="left"> 
