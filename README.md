@@ -12,15 +12,14 @@
 
 - ⚡ Me gusta ver pelis, el anime y los juegos
 
-<h3 align="left">Redes de contacto</h3>
+<h3 align="left">Linkedin</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/juan-belich-bb214223a/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/juan-belich-bb214223a/" target="blank">
+      <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
- <a href="https://www.instagram.com/belichjuano/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-     alt="_._.adam._" height="30" width="40" /></a> 
-</p>
+      alt="Icono Linkedin" height="30" width="40" />
+  </a>
+ </p>
 
 <h3>Más info <a href="https://jbelich.notion.site/jbelich/Juan-Ignacio-Belich-30453883cb364bac822f570e3426a463">aqui</a> o escanear QR</h3>
    <img align="center"src="https://github.com/JuanBelich/JuanBelich/blob/main/qr.png"alt="CV" height="150" width="160" />
