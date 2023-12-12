@@ -6,7 +6,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱Estoy aprendiendo varios lenguajes como Java, JavaScript y herramientas como CSS e inglés
+- 🌱Estoy aprendiendo varios lenguajes como Java,Python , JavaScript y herramientas como CSS e inglés
 
 - 📫 Contactame a mi <a href="mailto:jbelich89@gmail.com">correo</a>
 
