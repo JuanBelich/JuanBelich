@@ -1,23 +1,21 @@
-<h1 align="center">¡Bienvenidos! Me llamo Juan</h1>
-<h3 align="center">Junior Developer🌟.</h3>
+<h1 align="center">¡Wellcome im Juan Belich</h1>
+<h3 align="center">And I am Junior Developer🌟.</h3>
 
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱Estudiante Tecnicatura Universitaria en Programacion
+- 🌱 Graduate from University Technical Degree in Programming at **(UTN)**
 
-- 📫 Contactame a mi <a href="mailto:jbelich89@gmail.com">correo</a>
+- 📫 Contact me at my <a href="mailto:jbelich89@gmail.com">correo</a>
 
-- ⚡Mis pasatiempos son ver pelis, series y los juegos
+- ⚡ My hobbies are watching movies, series, and playing games
 
-<h3 align="left"><a href="https://www.linkedin.com/in/juan-belich-bb214223a/" target="blank">Linkedin</h3>  </a>
+<h3>Let's Connect: <a href="https://www.linkedin.com/in/juan-belich-bb214223a/" target="blank">Linkedin </a> </h3>
 
-<h3>Más info <a href="https://jbelich.notion.site/jbelich/Juan-Ignacio-Belich-30453883cb364bac822f570e3426a463">aqui</a> o escanear QR</h3>
-   <img align="center"src="https://github.com/JuanBelich/JuanBelich/blob/main/qr.png"alt="CV" height="150" width="160" />
 
-<h3 align="left">Languages y Herramientas:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     </a> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -35,3 +33,16 @@
   </a>
   <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40" /></a>
   </p>
+
+<h3>🚀 My Featured Projects:</h3>
+
+Here are some of the projects I've been working on or am most proud of:
+
+* **[Proyecto "PUEDES" (Universidad Nacional de Córdoba)](https://github.com/JuanBelich/Puedes-v0.1)**
+    * This project is a web platform developed in Django for library management. It allows users and librarians to interact with a book catalog, manage genres, edit profiles, manage favorites, and send email notifications..
+    
+* **[Gestion de Stock](https://github.com/JuanBelich/crud-Django)**
+    * This is a Django CRUD using Dython, SQL, Bootstrap.
+    
+* **[E-commerce "Fragranza"](https://github.com/JuanBelich/Integrador-Ecommerce)**
+    * This is the project presented at the end of the course, an e-commerce developed in JavaScript, CSS, SQL
