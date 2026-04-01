@@ -1,4 +1,4 @@
-<h1 align="center">¡Wellcome im Juan Belich</h1>
+<h1 align="center">Welcome, I'm Juan Belich</h1>
 <h3 align="center">And I am Junior Developer🌟.</h3>
 
 <br>
@@ -42,7 +42,7 @@ Here are some of the projects I've been working on or am most proud of:
     * This project is a web platform developed in Django for library management. It allows users and librarians to interact with a book catalog, manage genres, edit profiles, manage favorites, and send email notifications..
     
 * **[Gestion de Stock](https://github.com/JuanBelich/crud-Django)**
-    * This is a Django CRUD using Dython, SQL, Bootstrap.
+    * This is a Django CRUD using Python, SQL, Bootstrap.
     
 * **[E-commerce "Fragranza"](https://github.com/JuanBelich/Integrador-Ecommerce)**
     * This is the project presented at the end of the course, an e-commerce developed in JavaScript, CSS, SQL
